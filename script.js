@@ -93,7 +93,8 @@ async function fetchGitHubProjects() {
             'tic-tac-toe',
             'tictactoe',
             'tic-tac-toe-unity',
-            'tic-tac-toe-game'
+            'tic-tac-toe-game',
+            'portfolio'
         ];
 
         // Filter out forked repos, skip featured projects, and sort by stars
